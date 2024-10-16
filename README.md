@@ -35,5 +35,5 @@ $x$ you choose. For example, if $x=-2$, the output will show the value of the po
 ## Clone the repository:
 
    ```bash
-   git clone Lagrange_Interpolation_of_Given_Points_in_Rust.git
+ git clone https://github.com/cypriansakwa/Lagrange_Interpolation_of_Given_Points_in_Rust.git
    cd Lagrange_Interpolation_of_Given_Points_in_Rust
